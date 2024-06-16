@@ -1,0 +1,17 @@
+{
+    "name": "projeto-controle-trafego-aereo",
+    "version": "1.0.0",
+    "description": "Sistema de Controle de Tráfego Aéreo",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "node src/tests/testePlanoDeVooValido.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+      "jest": "^27.0.6"
+    }
+  }
+  
